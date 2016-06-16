@@ -1,6 +1,6 @@
 .hy{
 	/*color : #0000cc;*/
-	font-size : 15px;
+	font-size : 20px;
 	font-weight: bold;
 	line-height: 16px;
 	border :1px #336699 solid;
@@ -8,13 +8,13 @@
 
 .hy1{
 	color :  #FF0000;
-	font-size : 18px;
+	font-size : 20px;
 	font-weight: bold;
 	background: #f2e7ca url(img/1.jpg) top center no-repeat;
 }
 
 .hy2{
 	color :  #FF0000;
-	font-size : 18px;
+	font-size : 20px;
 	background: #f2e7ca url(img/2.jpg) top center no-repeat;
 }
